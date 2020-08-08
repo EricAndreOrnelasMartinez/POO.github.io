@@ -1,0 +1,30 @@
+.caja {
+    font-size: larger;
+    align-items: center;
+    position: relative;
+    left: 250px;
+}
+body{
+    background-color: black;
+}
+*{
+    color: white;
+}
+.titulo{
+    position: relative;
+    left:380px;
+}
+.def {  
+    position: relative;
+    left: 490px;
+}
+.sub{
+    position: relative;
+    left: 250px;
+}
+.subP {
+    font-size: larger;
+    align-items: center;
+    position: relative;
+    left: 250px;
+}
